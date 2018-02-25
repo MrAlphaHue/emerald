@@ -10,7 +10,7 @@ Huecle is a beautiful colour puzzle game
 **Developer** :Mr.Hue , one person developer. <br />
 **Release Date:** 26 February 2018 <br />
 **Platforms:** <P><A href="https://play.google.com/store/apps/details?id=com.MrHue.Huecle"><STRONG><FONT color=#e31600 size=5>Google Play</FONT></STRONG></A></P> <br />
-**Social:** <P><A href="https://www.facebook.com/MrHue-596300167373488/"><STRONG><FONT color=#e31600 size=5>Facebook</FONT></STRONG></A></P> <p>,</p> <P><A href="https://www.instagram.com/mr.hue_official/"><STRONG><FONT color=#e31600 size=5>Instagram</FONT></STRONG></A></P> <br />
+**Social:** <P><A href="https://www.facebook.com/MrHue-596300167373488/">Facebook</A></P> <p>,</p> <P><A href="https://www.instagram.com/mr.hue_official/"><FONT color=#e31600>Instagram</FONT></A></P> <br />
 **Regular Price:** USD$FREE <br />
 **Contact:** everywherefun125@gmail.com
 
