@@ -7,11 +7,11 @@ Huecle is a beautiful colour puzzle game
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=XQgaWqZiGYQ" frameborder="0" allowfullscreen></iframe>
 
 ## Factsheet
-**Developer** :Mr.Hue , one person developer.
-**Release Date:** 26 February 2018
-**Platforms:** Google Play
-**Social:**
-**Regular Price:** USD$FREE
+**Developer** :Mr.Hue , one person developer. <br />
+**Release Date:** 26 February 2018 <br />
+**Platforms:** Google Play <br />
+**Social:** 
+**Regular Price:** USD$FREE <br />
 **Contact:** 
 
 ## What is Huecle?
