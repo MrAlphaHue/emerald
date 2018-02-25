@@ -9,31 +9,32 @@ Huecle is a beautiful colour puzzle game
 ## Factsheet
 **Developer** :Mr.Hue , one person developer. <br />
 **Release Date:** 26 February 2018 <br />
-**Platforms:** Google Play <br />
-**Social:** 
+**Platforms:** <P><A href="https://play.google.com/store/apps/details?id=com.MrHue.Huecle"><STRONG><FONT color=#e31600 size=5>Google Play</FONT></STRONG></A></P> <br />
+**Social:** <P><A href="https://www.facebook.com/MrHue-596300167373488/"><STRONG><FONT color=#e31600 size=5>Facebook</FONT></STRONG></A></P> <p>,</p> <P><A href="https://www.instagram.com/mr.hue_official/"><STRONG><FONT color=#e31600 size=5>Instagram</FONT></STRONG></A></P> <br />
 **Regular Price:** USD$FREE <br />
-**Contact:** 
+**Contact:** everywherefun125@gmail.com
 
 ## What is Huecle?
-Hueclis is a beautiful colour puzzle game
+Huecle is a Beautiful Puzzle Game, with just Circle and Colour, created for people who need rest from life.
+Fill the circle with the correct colors to make perfect spectrum.
+Huecle is just not only give visual & auditory sense tranquility, but also the gain these things.
 
-### h3, h4, h5 and h6 have the same style.
+-Trip the world.
+-Meeting the wonderful painting.
+-Explore the beauty of nature.
+-Exchange the emotion.
+-Gain insight into a own’s life
+-Take an infinite journey
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sed quo atque *perspiciatis*. Eius cum possimus, maxime unde, asperiores neque blanditiis molestiae ipsa odit. **Laboriosam**, error! Ipsa officia magnam at ratione commodi porro nulla consequuntur eum quia nisi officiis cupiditate reprehenderit provident facilis rem, nobis quidem fugiat, et! Tempore maiores reprehenderit laboriosam rerum? 
-
-> This is a blockquote
-
-### Features
-- Trip the World.
-- Meet the master piec
-- list 3
-- list 4
 
 ### Features
-- Trip the World.
-- Meet the master piec
-- list 3
-- list 4
+- Simple & Aesthetic Interface
+- Over 200 stages
+- Atmospheric & Serene sound
+- Addictive Play
 
-### Other Information
+
+### Video
+
+### ScreenShot
 
