@@ -31,16 +31,14 @@ Huecle is just not only give visual & auditory sense tranquility, but also the g
 
 
 ### Video
-<iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
 
 <iframe width="560" height="420" src="http://www.youtube.com/embed/XQgaWqZiGYQ?color=white&theme=light"></iframe>
 
 ### ScreenShot
-![Image](/img/Huecle_512_512_Rounded copy copy.jpg){: width="100px" height="20px"}
-![Image](/img/Sc_1.png){: width="720px" height="1280px"}
-![Image](/img/Sc_2.png){: width="720px" height="1280px"}
-![Image](/img/Sc_3.png){: width="720px" height="1280px"}
-![Image](/img/Sc_4.png){: width="720px" height="1280px"}
-![Image](/img/Sc_5.png){: width="720px" height="1280px"}
-![Image](/img/Sc_6.png){: width="720px" height="1280px"}
-![Image](/img/Sc_Last.png){: width="720px" height="1280px"}
+![Image](/img/Sc_1.png){: width="240px" height="433px"}
+![Image](/img/Sc_2.png){: width="240px" height="433px"}
+![Image](/img/Sc_3.png){: width="240px" height="433px"}
+![Image](/img/Sc_4.png){: width="240px" height="433px"}
+![Image](/img/Sc_5.png){: width="240px" height="433px"}
+![Image](/img/Sc_6.png){: width="240px" height="433px"}
+![Image](/img/Sc_Last.png){: width="240px" height="433px"}
