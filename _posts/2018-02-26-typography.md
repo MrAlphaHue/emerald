@@ -36,7 +36,7 @@ Huecle is just not only give visual & auditory sense tranquility, but also the g
 
 
 ### Icon
-![Image](/img/Sc_4.png){: width="256px" height="256px"}
+![Image](/img/Huecle_512_512_Rounded copy copy.jpg){: width="256px" height="256px"}
 
 ### ScreenShot
 ![Image](/img/Sc_1.png){: width="240px" height="433px"}
