@@ -31,6 +31,8 @@ Huecle is just not only give visual & auditory sense tranquility, but also the g
 
 
 ### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1n_1jrUEjU" frameborder="0" allowfullscreen></iframe>
+
 {% include youtubePlayer.html id="A_zuHvBlvkA" %} 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XQgaWqZiGYQ&t=14s
