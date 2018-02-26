@@ -4,7 +4,7 @@ title: press kit
 
 ## Factsheet
 **Developer** :Mr.Hue , one person developer. <br />
-**Release Date:** 26 February 2018 <br />
+**Release Date:** 25 February 2018 <br />
 **Platforms:** <A href="https://play.google.com/store/apps/details?id=com.MrHue.Huecle">Google Play</A> <br />
 **Social:** <A href="https://www.facebook.com/MrHue-596300167373488/">Facebook</A>,<A href="https://www.instagram.com/mr.hue_official/">Instagram</A> <br />
 **Regular Price:** USD$FREE <br />
